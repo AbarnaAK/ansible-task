@@ -1,0 +1,8 @@
+[all]
+ubuntu@15.185.130.233
+ec2-user@172.31.0.112
+[ubuntu]
+ubuntu@15.185.130.233
+[linux]
+ec2-user@172.31.0.112
+

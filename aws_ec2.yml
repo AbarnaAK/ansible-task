@@ -1,0 +1,8 @@
+plugin: aws_ec2
+regions:
+   - "me-south-1"
+keyed_groups:
+   - key: bahrain2
+filters:
+   instance-state-name : running
+
